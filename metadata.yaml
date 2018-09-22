@@ -1,11 +1,16 @@
 _repo: The-Peddler-Spy-or-Dutchmen-and-Yankees_55772
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 55772-h/images/cover.jpg
 creator:
   author:
     agent_name: Hamilton, W. J.
     gutenberg_agent_id: '48502'
     url: http://www.gutenberg.org/2009/agents/48502
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55772#The-Peddler-Spy-or-Dutchmen-and-Yankees
 gutenberg_issued: '2017-10-18'
 gutenberg_type: Text
 identifiers:
